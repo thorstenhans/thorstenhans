@@ -22,15 +22,15 @@ I'm self-publishing [Building Serverless Applications with WebAssembly & Spin](h
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Book Progress & Illustrations](https://thorsten-hans.com/book-progress-and-illustrations/)** (5 days ago)
-- **[Book Progress & Thoughts on Inclusive Pricing](https://thorsten-hans.com/book-progress-and-thoughts-on-inclusive-pricing/)** (13 days ago)
-- **[Now](https://thorsten-hans.com/now/)** (14 days ago)
+- **[Book Progress & Illustrations](https://thorsten-hans.com/book-progress-and-illustrations/)** (6 days ago)
+- **[Book Progress & Thoughts on Inclusive Pricing](https://thorsten-hans.com/book-progress-and-thoughts-on-inclusive-pricing/)** (14 days ago)
+- **[Now](https://thorsten-hans.com/now/)** (15 days ago)
 - **[I’m Writing a Book on WebAssembly and Spin](https://thorsten-hans.com/i-am-writing-a-book-on-wasm-and-spin/)** (1 month ago)
 - **[Component Composition with Spin 4.0](https://thorsten-hans.com/component-composition-with-spin-4/)** (1 month ago)
 - **[Azure DevOps Extensions for Spin, Fermyon Wasm Functions and Fermyon Cloud](https://thorsten-hans.com/azure-devops-extensions-for-spin-fc-and-fwf/)** (11 months ago)
 - **[What I’ve Been Up To](https://thorsten-hans.com/whats-ive-been-up-to/)** (11 months ago)
 - **[Uses](https://thorsten-hans.com/uses/)** (13 months ago)
-- **[Archive](https://thorsten-hans.com/archive/)** (20 months ago)
+- **[Archive](https://thorsten-hans.com/archive/)** (21 months ago)
 - **[WebAssembly and Containers with Docker Desktop - Hello World & Beyond](https://thorsten-hans.com/webassembly-and-containers-with-docker-desktop-hello-world-and-beyond/)** (31 months ago)
 
 
@@ -40,4 +40,4 @@ Reach out on [X at @ThorstenHans](https://twitter.com/ThorstenHans) or find me o
 
 [![Sponsor Thorsten](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/thorstenhans)
 
-_last update_: Tue, 22 Sep 2026
+_last update_: Wed, 23 Sep 2026
