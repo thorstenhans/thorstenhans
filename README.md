@@ -22,8 +22,8 @@ I'm self-publishing [Building Serverless Applications with WebAssembly & Spin](h
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Book Progress & Illustrations](https://thorsten-hans.com/book-progress-and-illustrations/)** (22 days ago)
-- **[Book Progress & Thoughts on Inclusive Pricing](https://thorsten-hans.com/book-progress-and-thoughts-on-inclusive-pricing/)** (30 days ago)
+- **[Book Progress & Illustrations](https://thorsten-hans.com/book-progress-and-illustrations/)** (23 days ago)
+- **[Book Progress & Thoughts on Inclusive Pricing](https://thorsten-hans.com/book-progress-and-thoughts-on-inclusive-pricing/)** (1 month ago)
 - **[Now](https://thorsten-hans.com/now/)** (1 month ago)
 - **[I’m Writing a Book on WebAssembly and Spin](https://thorsten-hans.com/i-am-writing-a-book-on-wasm-and-spin/)** (1 month ago)
 - **[Component Composition with Spin 4.0](https://thorsten-hans.com/component-composition-with-spin-4/)** (1 month ago)
@@ -40,4 +40,4 @@ Reach out on [X at @ThorstenHans](https://twitter.com/ThorstenHans) or find me o
 
 [![Sponsor Thorsten](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/thorstenhans)
 
-_last update_: Fri, 09 Oct 2026
+_last update_: Sat, 10 Oct 2026
