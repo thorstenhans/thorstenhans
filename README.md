@@ -22,12 +22,12 @@ I'm self-publishing [Building Serverless Applications with WebAssembly & Spin](h
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Wasmtime 48 Denies Sockets by Default: What Breaks and Fixes](https://thorsten-hans.com/wasmtime-48-denies-sockets-by-default/)** (1 day ago)
-- **[Secrets in Spin with the OpenBao Variable Provider](https://thorsten-hans.com/secrets-in-spin-with-the-openbao-variable-provider/)** (5 days ago)
-- **[My WebAssembly & Spin Book is Now on Amazon](https://thorsten-hans.com/webassembly-and-spin-book-now-on-amazon/)** (17 days ago)
-- **[Now](https://thorsten-hans.com/now/)** (18 days ago)
-- **[Uses](https://thorsten-hans.com/uses/)** (18 days ago)
-- **[Out Now: Building Serverless Applications with WebAssembly & Spin](https://thorsten-hans.com/building-serverless-apps-with-wasm-and-spin-released/)** (28 days ago)
+- **[Wasmtime 48 Denies Sockets by Default: What Breaks and Fixes](https://thorsten-hans.com/wasmtime-48-denies-sockets-by-default/)** (2 days ago)
+- **[Secrets in Spin with the OpenBao Variable Provider](https://thorsten-hans.com/secrets-in-spin-with-the-openbao-variable-provider/)** (6 days ago)
+- **[My WebAssembly & Spin Book is Now on Amazon](https://thorsten-hans.com/webassembly-and-spin-book-now-on-amazon/)** (18 days ago)
+- **[Now](https://thorsten-hans.com/now/)** (19 days ago)
+- **[Uses](https://thorsten-hans.com/uses/)** (19 days ago)
+- **[Out Now: Building Serverless Applications with WebAssembly & Spin](https://thorsten-hans.com/building-serverless-apps-with-wasm-and-spin-released/)** (29 days ago)
 - **[Book Progress & Illustrations](https://thorsten-hans.com/book-progress-and-illustrations/)** (1 month ago)
 - **[Book Progress & Thoughts on Inclusive Pricing](https://thorsten-hans.com/book-progress-and-thoughts-on-inclusive-pricing/)** (2 months ago)
 - **[I’m Writing a Book on WebAssembly and Spin](https://thorsten-hans.com/i-am-writing-a-book-on-wasm-and-spin/)** (2 months ago)
@@ -40,4 +40,4 @@ Reach out on [X at @ThorstenHans](https://twitter.com/ThorstenHans) or find me o
 
 [![Sponsor Thorsten](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/thorstenhans)
 
-_last update_: Wed, 11 Nov 2026
+_last update_: Thu, 12 Nov 2026
