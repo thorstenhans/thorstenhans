@@ -12,10 +12,10 @@ Get it on [Amazon](https://www.amazon.com/dp/B0HNSDWXHT) (paperback and Kindle) 
 
 ## ✍️ Latest from [my blog](https://thorsten-hans.com)
 
-- [Cargo Dependency Cooldowns in Rust 1.100: Setup Guide](https://thorsten-hans.com/cargo-dependency-cooldowns-in-rust-1-100/) · 2 days ago
-- [How to Allow Network Access in Wasmtime (WASI Sockets)](https://thorsten-hans.com/allow-network-access-in-wasmtime/) · 13 days ago
-- [How to Read Secrets from OpenBao or Vault in a Rust Wasm App](https://thorsten-hans.com/read-secrets-from-openbao-or-vault-in-a-rust-wasm-app/) · 17 days ago
-- [My WebAssembly & Spin Book is Now on Amazon](https://thorsten-hans.com/webassembly-and-spin-book-now-on-amazon/) · 29 days ago
+- [Cargo Dependency Cooldowns in Rust 1.100: Setup Guide](https://thorsten-hans.com/cargo-dependency-cooldowns-in-rust-1-100/) · 3 days ago
+- [How to Allow Network Access in Wasmtime (WASI Sockets)](https://thorsten-hans.com/allow-network-access-in-wasmtime/) · 14 days ago
+- [How to Read Secrets from OpenBao or Vault in a Rust Wasm App](https://thorsten-hans.com/read-secrets-from-openbao-or-vault-in-a-rust-wasm-app/) · 18 days ago
+- [My WebAssembly & Spin Book is Now on Amazon](https://thorsten-hans.com/webassembly-and-spin-book-now-on-amazon/) · 30 days ago
 - [Out Now: Building Serverless Applications with WebAssembly & Spin](https://thorsten-hans.com/building-serverless-apps-with-wasm-and-spin-released/) · 1 month ago
 - [Book Progress & Illustrations](https://thorsten-hans.com/book-progress-and-illustrations/) · 2 months ago
 - [Book Progress & Thoughts on Inclusive Pricing](https://thorsten-hans.com/book-progress-and-thoughts-on-inclusive-pricing/) · 2 months ago
@@ -42,4 +42,4 @@ If my posts or open source work help you, consider sponsoring. It keeps the cont
 
 [![Sponsor Thorsten](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/thorstenhans)
 
-<sub>Last updated: Mon, 23 Nov 2026</sub>
+<sub>Last updated: Tue, 24 Nov 2026</sub>
