@@ -12,16 +12,16 @@ Get it on [Amazon](https://www.amazon.com/dp/B0HNSDWXHT) (paperback and Kindle) 
 
 ## ✍️ Latest from [my blog](https://thorsten-hans.com)
 
-- [Cargo Dependency Cooldowns in Rust 1.100: Setup Guide](https://thorsten-hans.com/cargo-dependency-cooldowns-in-rust-1-100/) · 3 days ago
-- [How to Allow Network Access in Wasmtime (WASI Sockets)](https://thorsten-hans.com/allow-network-access-in-wasmtime/) · 14 days ago
-- [How to Read Secrets from OpenBao or Vault in a Rust Wasm App](https://thorsten-hans.com/read-secrets-from-openbao-or-vault-in-a-rust-wasm-app/) · 18 days ago
-- [My WebAssembly & Spin Book is Now on Amazon](https://thorsten-hans.com/webassembly-and-spin-book-now-on-amazon/) · 30 days ago
+- [Akamai Functions Is GA - Deploy a Spin 4 App with spin aka](https://thorsten-hans.com/akamai-functions-spin-4-spin-aka-deploy/) · 1 day ago
+- [Cargo Dependency Cooldowns in Rust 1.100: Setup Guide](https://thorsten-hans.com/cargo-dependency-cooldowns-in-rust-1-100/) · 4 days ago
+- [How to Allow Network Access in Wasmtime (WASI Sockets)](https://thorsten-hans.com/allow-network-access-in-wasmtime/) · 15 days ago
+- [How to Read Secrets from OpenBao or Vault in a Rust Wasm App](https://thorsten-hans.com/read-secrets-from-openbao-or-vault-in-a-rust-wasm-app/) · 19 days ago
+- [My WebAssembly & Spin Book is Now on Amazon](https://thorsten-hans.com/webassembly-and-spin-book-now-on-amazon/) · 1 month ago
 - [Out Now: Building Serverless Applications with WebAssembly & Spin](https://thorsten-hans.com/building-serverless-apps-with-wasm-and-spin-released/) · 1 month ago
 - [Book Progress & Illustrations](https://thorsten-hans.com/book-progress-and-illustrations/) · 2 months ago
 - [Book Progress & Thoughts on Inclusive Pricing](https://thorsten-hans.com/book-progress-and-thoughts-on-inclusive-pricing/) · 2 months ago
 - [I’m Writing a Book on WebAssembly and Spin](https://thorsten-hans.com/i-am-writing-a-book-on-wasm-and-spin/) · 3 months ago
 - [Component Composition with Spin 4.0](https://thorsten-hans.com/component-composition-with-spin-4/) · 3 months ago
-- [Azure DevOps Extensions for Spin, Fermyon Wasm Functions and Fermyon Cloud](https://thorsten-hans.com/azure-devops-extensions-for-spin-fc-and-fwf/) · 13 months ago
 
 More on [thorsten-hans.com](https://thorsten-hans.com) · [RSS](https://thorsten-hans.com/index.xml) · [YouTube](https://www.youtube.com/c/thorstenhans)
 
@@ -42,4 +42,4 @@ If my posts or open source work help you, consider sponsoring. It keeps the cont
 
 [![Sponsor Thorsten](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/thorstenhans)
 
-<sub>Last updated: Tue, 24 Nov 2026</sub>
+<sub>Last updated: Wed, 25 Nov 2026</sub>
